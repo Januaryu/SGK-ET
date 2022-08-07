@@ -11,6 +11,4 @@ DATA007-泄露数据查询 链接:https://t.me/DATA_007bot?start=2cc094c99b
 
 订单机器人 链接:https://t.me/sgkorder_bot?start=8vK3pB2JsBGycDv2y
 
-社工库机器人 链接:https://t.me/sgkmainbot?start=IVT136CFBC28
-
 免费社工库机器人 链接:https://t.me/JkSGK8bot?start=2051b09a81
